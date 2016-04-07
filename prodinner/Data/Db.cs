@@ -1,13 +1,32 @@
-﻿using System.Data.Entity;
+﻿using System;
+using System.Data.Entity;
 using Omu.ProDinner.Core.Model;
+using System.Data.Common;
+using System.Data.Entity.Core.EntityClient;
+using System.Configuration;
 
 namespace Omu.ProDinner.Data
 {
     public class Db : DbContext
     {
-        public Db()
+        public Db() : base(GetSqlConnString())
         {
+
             Database.SetInitializer<Db>(null);
+        }
+
+        public static string GetSqlConnString()
+        {
+            // Initialize the EntityConnectionStringBuilder.
+
+            string resolvedConnString = null;
+
+            if (string.Equals(Environment.MachineName, "KaZet_Pc", StringComparison.CurrentCultureIgnoreCase))
+                resolvedConnString = ConfigurationManager.ConnectionStrings["DbHome"].ConnectionString;
+            else
+                resolvedConnString = ConfigurationManager.ConnectionStrings["DbOffice"].ConnectionString;
+
+            return resolvedConnString;
         }
 
         public DbSet<Country> Countries { get; set; }
