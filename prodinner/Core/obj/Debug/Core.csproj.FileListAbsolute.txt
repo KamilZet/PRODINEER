@@ -1,0 +1,4 @@
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.pdb

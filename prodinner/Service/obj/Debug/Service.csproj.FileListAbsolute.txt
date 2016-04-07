@@ -1,0 +1,12 @@
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Service.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Service.pdb
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.Drawing.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.Encrypto.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Core.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.pdb
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.xml
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\obj\Debug\Omu.ProDinner.Service.dll
+C:\Users\zienka01\Downloads\prodinnner\prodinner\Service\obj\Debug\Omu.ProDinner.Service.pdb
