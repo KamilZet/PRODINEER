@@ -17,7 +17,6 @@ namespace Omu.ProDinner.Data
 
         public static string GetSqlConnString()
         {
-            // Initialize the EntityConnectionStringBuilder.
 
             string resolvedConnString = null;
 
